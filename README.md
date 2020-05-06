@@ -45,8 +45,7 @@ Technologies used web application include:
 
 Directory structure of this app is given below.
 
-    ```
-.
+
 |── config
 |   ├── connection.js
 |   └── orm.js
@@ -81,7 +80,6 @@ Directory structure of this app is given below.
 |
 |-----package.json
 
-```
 
 ## NEW SKILLS LEARNT
 
