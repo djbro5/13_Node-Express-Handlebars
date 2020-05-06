@@ -91,7 +91,7 @@ Directory structure of this app is given below.
 |       └── img
 
 |           └── burger.png
-  
+
 |── package-lock.json
 
 |-----package.json
