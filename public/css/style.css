@@ -1,0 +1,47 @@
+body {
+    background-color: whitesmoke;
+}
+
+.navbar {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+}
+
+#order-div {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px 0px 10px 0px;
+}
+
+.order-row {
+    justify-content: center;
+    text-align: center;
+}
+
+#burger-div {
+    display: flex;
+    overflow: hidden;
+    text-align: center;
+}
+
+#new-burger {
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+#eaten {
+    color: grey;
+    padding: 5px;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    color: green;
+}
