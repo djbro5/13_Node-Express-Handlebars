@@ -56,19 +56,17 @@ Directory structure of this app is given below.
 |── controllers
 
 |   └── burgers_controller.js
-|
+
 
 |── db
 
 |   ├── schema.sql
 
 |   └── seeds.sql
-|
 
 |── models
 
 |   └── burger.js
-|
 
 |── views
 
@@ -77,12 +75,10 @@ Directory structure of this app is given below.
 |    └── layouts
 
 |        └── main.handlebars
-|
+
 |── server.js
-|
 
 |── node_modules
-|
 
 |── public
 
@@ -95,10 +91,8 @@ Directory structure of this app is given below.
 |       └── img
 
 |           └── burger.png
-| 
   
 |── package-lock.json
-|
 
 |-----package.json
 
